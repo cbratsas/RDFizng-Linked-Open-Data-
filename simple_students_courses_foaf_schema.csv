@@ -1,0 +1,11 @@
+StudentID,FullName,Email,CourseID,CourseTitle,CourseDescription,ECTS
+S001,Maria Papadopoulou,maria.papadopoulou@example.edu,C101,Databases,"Introduction to relational databases, SQL and data modeling.",6
+S002,Nikos Georgiou,nikos.georgiou@example.edu,C102,Semantic Web,"Introduction to RDF, ontologies, SPARQL and Linked Data.",6
+S003,Eleni Ioannou,eleni.ioannou@example.edu,C101,Databases,"Introduction to relational databases, SQL and data modeling.",6
+S004,Giorgos Antoniou,giorgos.antoniou@example.edu,C103,Web Technologies,"HTML, CSS, JavaScript and web application fundamentals.",5
+S005,Anna Dimitriou,anna.dimitriou@example.edu,C102,Semantic Web,"Introduction to RDF, ontologies, SPARQL and Linked Data.",6
+S006,Kostas Nikolaou,kostas.nikolaou@example.edu,C104,Data Mining,"Basic concepts of data mining, classification and clustering.",6
+S007,Sofia Alexiou,sofia.alexiou@example.edu,C105,Information Systems,Design and analysis of information systems in organizations.,5
+S008,Petros Stavrou,petros.stavrou@example.edu,C103,Web Technologies,"HTML, CSS, JavaScript and web application fundamentals.",5
+S009,Christina Markou,christina.markou@example.edu,C104,Data Mining,"Basic concepts of data mining, classification and clustering.",6
+S010,Dimitris Pappas,dimitris.pappas@example.edu,C105,Information Systems,Design and analysis of information systems in organizations.,5
