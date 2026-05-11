@@ -240,7 +240,33 @@ Turtle (.ttl)
 - να εξάγει RDF/Turtle
 
 ---
+# Χρήση του CSV Dataset στο LinkedPipes ETL
 
+Το dataset της εργασίας είναι διαθέσιμο δημόσια στο GitHub repository:
+
+```text
+https://github.com/cbratsas/RDFizng-Linked-Open-Data-
+```
+
+Το CSV αρχείο που θα χρησιμοποιηθεί στις Ασκήσεις 2 και 3 είναι:
+
+```text
+simple_students_courses_foaf_schema.csv
+```
+
+---
+
+# Direct RAW URL για LinkedPipes ETL
+
+Για να μπορέσει το LinkedPipes ETL να κατεβάσει το CSV αρχείο, πρέπει να χρησιμοποιηθεί το **RAW URL** του GitHub και όχι το απλό GitHub page URL.
+
+## Σωστό RAW URL
+
+```text
+https://raw.githubusercontent.com/cbratsas/RDFizng-Linked-Open-Data-/main/simple_students_courses_foaf_schema.csv
+```
+
+---
 # Ενδεικτική Pipeline Architecture
 
 ```text
